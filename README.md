@@ -333,6 +333,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+
+### AIP (Agent Identity Protocol)
+<div><a href="https://github.com/The-Nexus-Guard/aip"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/The-Nexus-Guard/aip"><img src="https://img.shields.io/github/stars/The-Nexus-Guard/aip?style=social" alt="GitHub stars"></a></div>
+<p>🔐 Security & Identity</p>
+
+<p>AIP gives AI agents cryptographic identity using Ed25519 keys and DIDs. Agents can register, verify each other, build trust networks through vouching, exchange encrypted messages, and sign artifacts. Built for the multi-agent future where agents need to prove who they are.</p>
+
+<p><a href="https://github.com/The-Nexus-Guard/aip">github</a> | <a href="https://pypi.org/project/aip-identity/">pypi</a> | <a href="https://the-nexus-guard.github.io/aip/">website</a></p>
+</div>
 ### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
